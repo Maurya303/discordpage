@@ -308,7 +308,7 @@ h2{
     font-family: "ABC Ginto Nord Normal";
 }
 
-.homepagelink{
+.homepagelink:hover{
     text-decoration: none;
 }
 
