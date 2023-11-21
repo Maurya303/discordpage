@@ -308,6 +308,10 @@ h2{
     font-family: "ABC Ginto Nord Normal";
 }
 
+.homepagelink{
+    text-decoration: none;
+}
+
 .bottom{
     display: inline;
 }
